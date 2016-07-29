@@ -1,2 +1,4 @@
 teste do git linha 1
-linha 2 do teste
+linha 2 do teste foi modificada aqui
+e aqui
+nova linha
